@@ -93,7 +93,7 @@ Análisis exploratorio de la demanda de pasajeros de las líneas 1 y 2 del Metro
 
 📂 **Repositorio:** [Series temporales — Metro de Medellín](https://github.com/Andres-Romero0/series-temporales-metro-medellin)
 
-📊 **Informe en RPubs:** [Consultar análisis](https://rpubs.com/Romeroo15/analisis_metro_medellin)
+📄 **Informe técnico en Word:** [Descargar informe](./Informe_NBA_Analytics_Dashboard.docx)
 
 🌐 **GitHub Pages:** [Ver informe publicado](https://andres-romero0.github.io/series-temporales-metro-medellin/)
 
