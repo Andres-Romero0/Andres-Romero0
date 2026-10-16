@@ -147,7 +147,7 @@ Mi objetivo es seguir desarrollando habilidades técnicas y aplicarlas en proyec
 
 ## 📫 Contacto
 
-💼 **LinkedIn:** [Mi perfil profesional](PEGA_AQUI_TU_URL_DE_LINKEDIN)
+💼 **LinkedIn:** [Mi perfil profesional](linkedin.com/in/andres-mauricio-romero-rojas-b1a650442)
 
 💻 **GitHub:** [Andres-Romero0](https://github.com/Andres-Romero0)
 
